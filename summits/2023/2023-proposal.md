@@ -33,7 +33,7 @@ from the scientific Python ecosystem to come together to:
 
 Collaborate to adopt and improve infrastructure, tools, and processes
 used across projects. This includes infrastructure already described
-by Scientific Python Ecosystem Coordination documents (SPECs), as well
+in Scientific Python Ecosystem Coordination documents (SPECs), as well
 as, but not limited to, tools for documentation, testing, packaging,
 and Continuous Integration (CI).
 
@@ -47,46 +47,42 @@ Developer Operations (DevOps)
 
 ## Better coordinate core projects
 
-- Community best operating and development practices manual
-- Coordinated release schedule
-- Regular cross-project communication
-- Joint governance structures
+A central goal of the Scientific Python project and, by implication, the summit, is to better coordinate maintenance of the different projects.
+We want to write up a maintenance manual with community best practices, agree on a common release schedule, establish channels for regular cross-project communication, and decide on joint governance structures.
 
 ## Work on a shared developer roadmap
 
 Our community has never before engaged in a deliberative process to try and anticipate future challenges.  
-The strategic plan will identify core needs and future challenges of
-the scientific Python community. Rather than focusing on the technical details of one particular core project, the strategic plan would discuss the challenges shared by more projects. The plan will also be used by the community
-for support when applying for federal grants.
+The strategic plan will identify core needs and future challenges of the scientific Python community.
+Rather than focusing on the technical details of one particular core project, the strategic plan would discuss the challenges shared by more projects.
+The plan will also be used by the community for support when applying for federal grants.
 
 # Logistics
 
-We have funding to cover 40—no more than 50—participants for 5 days,
-6 nights, including travel, food, and lodging.
-This will be an invite-only event that requires a substantial upfront agreement to commit a substantial amount of time including:
-
-- in-person participation in one-week developer summit
-- three to four month pre-summit planning
-- three to four moutht post-summit implementation
+We have funding to cover 40—no more than 50—participants for 5 days, 6 nights, including travel, food, and lodging.
+This will be an invite-only event that requires upfront agreement to commit a substantial amount of time to
+(a) take part in three to four months of pre-summit plannning,
+(b) attend the one-week summit in-person, and
+(c) participate in several months of post-summit implementation.
 
 ## Timing
 
-We need four months lead time, but assuming we get an early confirmation we would like a one-week
-period between February and June 2023.
+We need four months lead time to plan and coordinate work.
+Assuming we get an early confirmation, a one-week period between February and June 2023 would be ideal for the summit itself.
 
 ## Pre-Summit Planning
 
-Participants will be responsible for attending two or more one-hour video meetings and
-participating in a planning repository via PRs, issues, as well as PR and issue reviews.
-In particular, the work plan will be decided before the meeting.
-
-This includes deciding on topics, dividing the work, and scheduling the meeting.
+Participants will be responsible for attending two or more one-hour video meetings and for
+participating in a planning repository via PRs, issues—as both contributors and reviewers.
+The work plan will be decided before the meeting, and includes deciding on topics, dividing the work, and scheduling the meeting.
 
 ## Summit Execution
 
-No specific need for everyone to meet at once.
-We will plan to have several small work groups.
+We do not need the entire group to meet in one room at the same time, because work will be planned and subdivided beforehand.
 
-Lunch could be catered and delivered to the work rooms or we could go to near by restaurants.
+Lunch could be catered and delivered to the work rooms, or we could go to nearby restaurants.
 
 ## Post-Summit Implementation
+
+During the meeting we will file issues on both the planning repository and on those of individual projects.
+After the meeting, attendees will collaborate on their assigned tasks until completion.
